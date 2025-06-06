@@ -1,0 +1,2 @@
+# orange_pi_3_lts_android9_fix
+自学开发板,折腾香橙派3LTS的官方安卓9源代码,修BUG记录
